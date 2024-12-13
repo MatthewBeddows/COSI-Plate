@@ -1,0 +1,5 @@
+[Module Name] COSI- Aluminium Plates
+
+[Module Info] Aluminium plates for the COSI system.
+
+[Requirements]
